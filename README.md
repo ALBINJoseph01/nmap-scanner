@@ -15,7 +15,7 @@ This script provides an advanced interface for performing Nmap scans. It support
 
 **Install Python-Nmap Library**: Install the `python-nmap` library using pip:
 
-    ```bash
+    ```
     pip install python-nmap
     ```
 
