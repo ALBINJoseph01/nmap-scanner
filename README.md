@@ -55,7 +55,7 @@ This script provides an advanced interface for performing Nmap scans. It support
 - **Run a TCP SYN scan on ports 1-1000**:
 
     ```bash
-    python nmap_scanner.py
+    python nmap_automated.py
     ```
 
     Then select option 1 and enter port range `1-1000`.
@@ -63,7 +63,7 @@ This script provides an advanced interface for performing Nmap scans. It support
 - **Run an aggressive scan and save results in XML format**:
 
     ```bash
-    python nmap_scanner.py
+    python nmap_automated.py
     ```
 
     Then select option 6 and choose XML format for output.
@@ -71,7 +71,7 @@ This script provides an advanced interface for performing Nmap scans. It support
 - **Run a custom script scan**:
 
     ```bash
-    python nmap_scanner.py
+    python nmap_automated.py
     ```
 
     Then select option 7 and enter the script names (e.g., `http-vuln-cve2006-3392,http-shellshock`).
