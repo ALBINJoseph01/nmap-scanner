@@ -31,7 +31,7 @@ This script provides an advanced interface for performing Nmap scans. It support
 2. **Run the Script**:
 
     ```bash
-    python nmap_scanner.py
+    python nmap_automated.py
     ```
 
 3. **Follow the Prompts**:
